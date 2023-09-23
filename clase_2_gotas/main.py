@@ -53,7 +53,7 @@ class Gota(pygame.sprite.Sprite):
 
     def update(self, dt):
         self.rect.y += 9.8 * dt
-        if self.rect.y > 480:
+        if self.rect.y > 800:
             self.kill()
 
 
