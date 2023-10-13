@@ -90,8 +90,8 @@ gotas = pygame.sprite.Group()
 jugador = pygame.sprite.Group()
 
 # ancho por altura de nuestra pantalla
-ancho = 640
-altura = 800
+ancho = 420
+altura = 600
 pantalla = pygame.display.set_mode((ancho, altura))
 
 # Deltatime
