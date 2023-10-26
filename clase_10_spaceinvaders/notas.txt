@@ -1,0 +1,2 @@
+en el sprite sheet las medidas son als siguientes de cada frame
+11 x 8
